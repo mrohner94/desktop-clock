@@ -10,7 +10,7 @@ npm install
 
 ### Compile and Hot-Reload for Development
 
-#### test
+#### Note: you will need to disable the "base" value in the vite config
 
 ```sh
 npm run dev
