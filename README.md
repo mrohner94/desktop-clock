@@ -10,6 +10,8 @@ npm install
 
 ### Compile and Hot-Reload for Development
 
+#### Note: you will need to disable the "base" value in the vite config
+
 ```sh
 npm run dev
 ```
@@ -18,4 +20,10 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Desktop App
+
+```sh
+npm run electron
 ```
